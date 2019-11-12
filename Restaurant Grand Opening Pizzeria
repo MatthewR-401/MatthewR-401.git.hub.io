@@ -1,15 +1,30 @@
 <html lang="en"><head>
     <title>Modo Veccho Pizzeria G.O.</title>
+      <style>
+body{
+  background:Orange
+}
+#name{
+   background-color:red;
+}
+#adress{
+   background-color:yellow;
+}
+h1 {
+  border: 4px dotted blue;
+}
+
+  </style>
 </head>
 <body>
 <center>
 <h1>Mondo Veccho Pizzeria</h1>
-<h2> Adress: 312 S. Main St., Fall River, MA</h2>
+<h2 id="adress> Adress: 312 S. Main St., Fall River, MA</h2>
 <a href="www.vecchiopizza.com">Website Adress</a><br>
 <a href="admin@vecchiopizza.com">Our Email</a><br>
-<h2>Hours of operarion:</h2>
+<h2 id="name">Hours of operarion:</h2>
 <p>
-     <h3>Sunday:11am-5pm<br/>
+     <h3 id="adress">Sunday:11am-5pm<br/>
      Monday:Closed<br/>
      Tuesday-Wednesday:11am-9pm<br/>
      Thursday-Sat:11am-1am<br/>
