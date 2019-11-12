@@ -2,6 +2,7 @@
     <title>Modo Veccho Pizzeria G.O.</title>
 </head>
 <body>
+<center>
 <h1>Mondo Veccho Pizzeria</h1>
 <h2> Adress: 312 S. Main St., Fall River, MA</h2>
 <a href="www.vecchiopizza.com">Website Adress</a><br>
@@ -12,3 +13,4 @@
      Monday:Closed<br/>
      Tuesday-Wednesday:11am-9pm<br/>
      Thursday-Sat:11am-1am<br/>
+<center/>
